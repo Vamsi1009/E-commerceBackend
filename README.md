@@ -1,7 +1,7 @@
 # E-commerceBackend
-This is how user login the WebSite  or Android App;
-In This project we are we using Complete [mobileNumber OTP  Authentication] we Using Firebase RestApi's
-Firebase is a comprehensive platform provided by Google that offers a wide range of tools and services to help you build and manage web and mobile applications
+This is how user login the WebSite  or Android App.
+In This project we are we using Complete [mobileNumber OTP  Authentication] we Using Firebase RestApi's.
+Firebase is a comprehensive platform provided by Google that offers a wide range of tools and services to help you build and manage web and mobile applications.
 Here user First signUp Details 📱
 
 details are Srored in the MongoDB and we are using the AWS services
